@@ -1,0 +1,1 @@
+Ini adalah permainan tebak angka. Angka acak antara 1-100 dipilih sebagai target. Pengguna menebak angka tersebut. Pesan memberi tahu apakah tebakan terlalu rendah, tinggi, atau tepat. Permainan berlanjut hingga tebakan benar.
